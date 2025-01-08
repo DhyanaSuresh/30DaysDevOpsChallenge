@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.zip
+30Days-DevOps-Challege/
